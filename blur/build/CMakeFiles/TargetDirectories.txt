@@ -1,0 +1,3 @@
+/home/shuaige/OpenCV_TEST/blur/build/CMakeFiles/rebuild_cache.dir
+/home/shuaige/OpenCV_TEST/blur/build/CMakeFiles/edit_cache.dir
+/home/shuaige/OpenCV_TEST/blur/build/CMakeFiles/blur.dir

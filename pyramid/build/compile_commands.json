@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shuaige/OpenCV_TEST/pyramid/build",
+  "command": "/usr/bin/c++   -I/home/shuaige/OpenCV_TEST/pyramid/. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/tower.dir/src/main.cpp.o -c /home/shuaige/OpenCV_TEST/pyramid/src/main.cpp",
+  "file": "/home/shuaige/OpenCV_TEST/pyramid/src/main.cpp"
+}
+]

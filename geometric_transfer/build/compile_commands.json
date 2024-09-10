@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shuaige/OpenCV_TEST/geometric_transfer/build",
+  "command": "/usr/bin/c++   -I/home/shuaige/OpenCV_TEST/geometric_transfer/. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/tower.dir/src/main.cpp.o -c /home/shuaige/OpenCV_TEST/geometric_transfer/src/main.cpp",
+  "file": "/home/shuaige/OpenCV_TEST/geometric_transfer/src/main.cpp"
+}
+]

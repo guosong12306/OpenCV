@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shuaige/OpenCV_TEST/blur/build",
+  "command": "/usr/bin/c++   -I/home/shuaige/OpenCV_TEST/blur/. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/blur.dir/src/main.cpp.o -c /home/shuaige/OpenCV_TEST/blur/src/main.cpp",
+  "file": "/home/shuaige/OpenCV_TEST/blur/src/main.cpp"
+}
+]

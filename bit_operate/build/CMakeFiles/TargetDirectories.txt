@@ -1,0 +1,3 @@
+/home/shuaige/OpenCV_TEST/bit_operate/build/CMakeFiles/rebuild_cache.dir
+/home/shuaige/OpenCV_TEST/bit_operate/build/CMakeFiles/edit_cache.dir
+/home/shuaige/OpenCV_TEST/bit_operate/build/CMakeFiles/bit.dir

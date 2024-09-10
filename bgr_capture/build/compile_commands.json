@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shuaige/OpenCV_TEST/bgr_capture/build",
+  "command": "/usr/bin/c++   -I/home/shuaige/OpenCV_TEST/bgr_capture/. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/bit.dir/src/main.cpp.o -c /home/shuaige/OpenCV_TEST/bgr_capture/src/main.cpp",
+  "file": "/home/shuaige/OpenCV_TEST/bgr_capture/src/main.cpp"
+}
+]

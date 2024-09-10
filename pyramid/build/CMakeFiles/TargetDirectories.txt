@@ -1,0 +1,3 @@
+/home/shuaige/OpenCV_TEST/pyramid/build/CMakeFiles/rebuild_cache.dir
+/home/shuaige/OpenCV_TEST/pyramid/build/CMakeFiles/edit_cache.dir
+/home/shuaige/OpenCV_TEST/pyramid/build/CMakeFiles/tower.dir
